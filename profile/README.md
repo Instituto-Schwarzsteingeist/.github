@@ -20,7 +20,7 @@ Muita gente domina a fundo um ofício e nunca teve acesso à teoria, à ciência
 | **O Último Curso** | Formação longa: engenharia de software, letramento digital, filosofia política e ciências sociais computacionais, com leitura direta das fontes primárias. Três anos. | Todas as vagas preenchidas |
 | **Forward Deployed Engineering** | Formação intensiva: a engenharia que leva inteligência artificial para dentro de organizações reais. Um ano. | Todas as vagas preenchidas |
 
-A admissão para as próximas turmas é feita pela [lista de espera](https://schwarzsteingeist.pages.dev/programas/#lista-de-espera). Valores e formas de pagamento estão na [página dos programas](https://schwarzsteingeist.pages.dev/programas/).
+A admissão para as próximas turmas é feita pela [lista de espera](https://schwarzsteingeist.pages.dev/programas/#lista-de-espera). Formas de pagamento estão na [página dos programas](https://schwarzsteingeist.pages.dev/programas/).
 
 ## Bolsas
 
