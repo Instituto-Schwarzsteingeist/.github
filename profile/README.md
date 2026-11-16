@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://schwarzsteingeist.pages.dev/"><img src="https://instituto-schwarzsteingeist.github.io/assets/logo-horizontal.svg" alt="Instituto Schwarzsteingeist" width="420"></a>
+  <a href="https://schwarzsteingeist.pages.dev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://instituto-schwarzsteingeist.github.io/assets/logo-horizontal-branco.svg">
+      <img src="https://instituto-schwarzsteingeist.github.io/assets/logo-horizontal.svg" alt="Instituto Schwarzsteingeist" width="420">
+    </picture>
+  </a>
 </p>
 
 <p align="center"><strong>Conhecimento para compreender e transformar o mundo.</strong></p>
